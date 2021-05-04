@@ -1,4 +1,4 @@
-# Computational-neuroscience
+# Computational Neuroscience
 Learning material for Computational Neuroscience
 ***
 Python models for the following topics can be found - 
