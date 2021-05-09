@@ -1,4 +1,4 @@
-# Chapter 6
+# Chapter 7
 
 - Table 7.1 Program som.m
 - Table 7.2 Program dnf.m
